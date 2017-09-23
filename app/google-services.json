@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773344654587",
+    "firebase_url": "https://tp3fundamentosandroidjava.firebaseio.com",
+    "project_id": "tp3fundamentosandroidjava",
+    "storage_bucket": "tp3fundamentosandroidjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773344654587:android:d6514a4a208423a9",
+        "android_client_info": {
+          "package_name": "infnet.edu.br.tp3fundamentosandroidjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773344654587-vd5r9kfq8govoh9p5b20m1mpidrf7n4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "infnet.edu.br.tp3fundamentosandroidjava",
+            "certificate_hash": "62b1b930f5ca3f1312c19467620852229c21b70d"
+          }
+        },
+        {
+          "client_id": "773344654587-869dteikgf1jphueoluin11j3ehaneu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA47p1DSTHpYVH0TqnxiXVdbIrQzufkD9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773344654587-869dteikgf1jphueoluin11j3ehaneu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

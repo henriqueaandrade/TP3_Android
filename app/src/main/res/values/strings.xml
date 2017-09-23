@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP3FundamentosAndroidJava</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="email">exemplo@exemplo.com</string>
+    <string name="telefone">telefone</string>
+    <string name="celular">celular</string>
+    <string name="cpf">CPF</string>
+    <string name="cidade">Digite sua cidade</string>
+    <string name="salvar">Salvar</string>
+    <string name="apagar">Apagar</string>
+    <string name="visualizar_contatos">Visualizar Contatos</string>
+</resources>

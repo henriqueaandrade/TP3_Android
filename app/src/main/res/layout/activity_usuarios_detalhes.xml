@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/espaco_detalhes"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:id="@+id/detalhes_nome"
+        android:text="Nome"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:id="@+id/detalhes_email"
+        android:padding="@dimen/espaco_detalhes"
+        android:text="Email"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@android:color/black"
+        android:padding="@dimen/espaco_detalhes"
+        android:id="@+id/detalhes_senha"
+        android:layout_height="wrap_content"
+        android:text="Senha"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@android:color/black"
+        android:id="@+id/detalhes_telefone"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/espaco_detalhes"
+        android:text="Telefone"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/detalhes_celular"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:padding="@dimen/espaco_detalhes"
+        android:text="Celular"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/detalhes_cpf"
+        android:padding="@dimen/espaco_detalhes"
+        android:textColor="@android:color/black"
+        android:layout_height="wrap_content"
+        android:text="CPF"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/detalhes_cidade"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:padding="@dimen/espaco_detalhes"
+        android:text="Cidade"/>
+
+</LinearLayout>

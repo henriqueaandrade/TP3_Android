@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_largura">160dp</dimen>
+    <dimen name="edit_altura">40dp</dimen>
+    <dimen name="espaco_detalhes">2dp</dimen>
+</resources>
